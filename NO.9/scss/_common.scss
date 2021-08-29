@@ -1,0 +1,24 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	color: $txt;
+	box-sizing: border-box;
+}
+a {
+	text-decoration: none;
+	color: $txt;
+}
+li {
+	list-style: none;
+}
+img {
+	max-width: 100%;
+	box-sizing: border-box;
+}
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.container2 {
+	max-width: 800px;
+	margin: 0 auto;
+}
